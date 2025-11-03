@@ -33,7 +33,7 @@ This project is designed to be **shared publicly**, with sensitive credentials h
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Saif-Ali-109/Whatsapp_Automation/blob/main/Readme.md
 cd whatsapp-automation
 ```
 
