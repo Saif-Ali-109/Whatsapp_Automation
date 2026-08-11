@@ -1,4 +1,4 @@
-# WhatsApp Automation Backend (Flask + WhatsApp Cloud API)
+# WhatsApp Chatbot Backend (Flask + WhatsApp Cloud API)
 
 ## Overview
 This project is a backend automation system for WhatsApp using **Python Flask** and the **WhatsApp Cloud API**. It allows your WhatsApp number to automatically receive messages and send automated replies.
